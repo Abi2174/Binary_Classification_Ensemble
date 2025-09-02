@@ -1,7 +1,4 @@
-# CS771 Mini Project - Binary Classification Ensemble
-
-## Instructor
-*Prof. Piyush Rai*
+Binary Classification Ensemble
 
 ## Project Overview
 This project focuses on developing and evaluating binary classification models for three distinct datasets derived from an original raw dataset. Each dataset represents the same underlying data but with different feature representations. The goal is to identify the best-performing model based on validation accuracy and demonstrate the benefits of combining complementary information from different feature types.
@@ -137,5 +134,6 @@ To replicate the results or explore further:
 - `pred_combined.txt`: Predictions from the ensemble model
 
 ## Conclusion
+
 
 This project successfully implemented and evaluated multiple binary classification models across various datasets. The findings highlight the importance of model architecture, feature engineering, and ensemble strategies in achieving high validation
